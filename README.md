@@ -1,4 +1,4 @@
-(https://github.com/RoyDip-Shuvo/RoyDip-Shuvo/blob/b9332cde32a630c081204f953d10af0f731c06c8/Git%20Cover.jpg)
+![image alt](https://github.com/RoyDip-Shuvo/RoyDip-Shuvo/blob/b9332cde32a630c081204f953d10af0f731c06c8/Git%20Cover.jpg)
 <h1 align="center">Hi 👋, I'm Dipongkar Roy</h1>
 <h3 align="Left">Welcome to my digital playground! I'm Dipongkar Roy, a Data Analyst who transforms numbers into narratives and data into decisions. Armed with the magic of SQL, Power BI, DAX, and Python, I weave through the data jungle to uncover hidden gems.</h3>
 
