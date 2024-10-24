@@ -15,7 +15,7 @@
 - 💬 Ask me about **SQL, PowerBI, Dax**
 
 - 📫 How to reach me **roydip.bd@gmail.com**
-- ⬇️ ### [Download CV](https://drive.google.com/file/d/1wRC-tsh4gEfeBrkElkcuc0SmdxVgR1No/view?usp=sharing)
+- ⬇️ [Download CV](https://drive.google.com/file/d/1wRC-tsh4gEfeBrkElkcuc0SmdxVgR1No/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
